@@ -1,5 +1,10 @@
-### Hi there 👋
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sb2bg&show_icons=true&theme=tokyonight)
 
+![My top GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sb2bg&theme=tokyonight)
+
+# Current Projects
+### GlassLang -> https://github.com/sb2bg/RustGlass
+A dynamically typed programming language written in rust. Created to be easy to use, high performance, and all around pleasent to work with. It's functionally scoped and has many first-class data objects such as strings, numbers, booleans, lists, dictionaries, functions, void (null), and even a type 'type'.
 <!--
 **sb2bg/sb2bg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
