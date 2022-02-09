@@ -4,7 +4,7 @@
 
 # Current Projects
 ### GlassLang -> https://github.com/sb2bg/RustGlass
-A dynamically typed programming language written in rust. Created to be easy to use, high performance, and all around pleasent to work with. It's functionally scoped and has many first-class data objects such as strings, numbers, booleans, lists, dictionaries, functions, void (null), and even a type 'type'.
+A dynamically typed programming language written in rust. Main focal points include ease of use and performance.
 <!--
 **sb2bg/sb2bg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
