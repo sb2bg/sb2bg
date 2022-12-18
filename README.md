@@ -3,8 +3,8 @@
 ![My top GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sb2bg&theme=tokyonight)
 
 # Current Projects
-### GlassLang -> https://github.com/sb2bg/RustGlass
-A dynamically typed programming language written in rust. Main focal points include ease of use and performance.
+### Walrus -> https://github.com/sb2bg/walrus
+A dynamically typed programming language written in rust.
 <!--
 **sb2bg/sb2bg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
