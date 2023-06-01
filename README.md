@@ -1,10 +1,10 @@
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sb2bg&show_icons=true&theme=tokyonight)
-
 ![My top GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sb2bg&theme=tokyonight)
 
 # Current Projects
-### Walrus -> https://github.com/sb2bg/walrus
-A dynamically typed programming language written in rust.
+### [Walrus](https://github.com/sb2bg/walrus)
+Dynamically typed programming language written in rust.
+### [CustomDeathMessages](https://github.com/sb2bg/CustomDeathMessages)
+[Spigot plugin](https://www.spigotmc.org/resources/customdeathmessages-cdm.69605/) with over 13k downloads that allows customizable death messages.
 <!--
 **sb2bg/sb2bg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
