@@ -4,7 +4,7 @@
 ### [Walrus](https://github.com/sb2bg/walrus)
 Dynamically typed programming language written in rust.
 ### [CustomDeathMessages](https://github.com/sb2bg/CustomDeathMessages)
-[Spigot plugin](https://www.spigotmc.org/resources/customdeathmessages-cdm.69605/) with over 13k downloads that allows customizable death messages.
+[Spigot plugin](https://www.spigotmc.org/resources/customdeathmessages-cdm.69605/) with over 14k downloads that allows customizable death messages.
 <!--
 **sb2bg/sb2bg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
