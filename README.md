@@ -1,8 +1,8 @@
 ![My top GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sb2bg&theme=tokyonight)
 
+# Current Projects
 ### [CustomDeathMessages](https://github.com/sb2bg/CustomDeathMessages)
 [Spigot plugin](https://www.spigotmc.org/resources/customdeathmessages-cdm.69605/) with over 15k downloads that allows customizable death messages.
-# Current Projects
 ### [Walrus](https://github.com/sb2bg/walrus)
 Dynamically typed programming language written in rust.
 <!--
