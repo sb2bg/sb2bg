@@ -2,7 +2,7 @@
 
 # Current Projects
 ### [CustomDeathMessages](https://github.com/sb2bg/CustomDeathMessages)
-[Spigot plugin](https://www.spigotmc.org/resources/customdeathmessages-cdm.69605/) with over 15k downloads that allows customizable death messages.
+[Spigot plugin](https://www.spigotmc.org/resources/customdeathmessages-cdm.69605/) with over 16k downloads that allows customizable death messages.
 ### [Walrus](https://github.com/sb2bg/walrus)
 Dynamically typed programming language written in rust.
 <!--
