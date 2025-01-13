@@ -2,7 +2,7 @@
 
 # Current Projects
 ### [CustomDeathMessages](https://github.com/sb2bg/CustomDeathMessages)
-[Spigot plugin](https://www.spigotmc.org/resources/customdeathmessages-cdm.69605/) with over 21k downloads that allows customizable death messages.
+[Spigot plugin](https://www.spigotmc.org/resources/customdeathmessages-cdm.69605/) with over 22k downloads that allows customizable death messages.
 ### [Jordan Java](https://github.com/sb2bg/jhs_pop)
 App to teach special education students real-world financial skills.
 ### [Walrus](https://github.com/sb2bg/walrus)
