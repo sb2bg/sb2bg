@@ -29,7 +29,7 @@ Tip: Replace the placeholder images/links (stats, banners) with your favorites.
 ---
 
 ## About
-I’m a CS student at **UT Austin** (BS CS, May 2027) who likes building systems: compilers/VMs, infra, and apps that don’t fall apart.
+I’m a CS student at **UT Austin** (BS CS, May 2027) who likes building: compilers/VMs, infra, and web-dev.
 
 Right now:
 - **Founding Engineer @ [ClubTracker](https://clubtracker.app)** — multi-tenant platform for clubs (discovery, apps, events, directories, comms)
