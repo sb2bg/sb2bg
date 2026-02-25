@@ -39,7 +39,7 @@ Right now:
 
 ## Highlights
 - Built **Walrus**, a bytecode-compiled VM language in Rust (feat. GC, TCO, JIT, etc.)
-- Built **Sykora**, a chess engine in Zig (~2400 Elo via match results vs Stockfish strength settings)
+- Built **Sykora**, a chess engine in Zig (~2400 Elo via [CCI](https://github.com/computer-chess-index/cci)
 - Shipped software used at scale: Minecraft infra + plugins (tens of thousands of users / 26k+ downloads)
 
 ---
