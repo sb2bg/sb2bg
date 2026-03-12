@@ -93,7 +93,6 @@ Right now:
 
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sb2bg&show_icons=true&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sb2bg&layout=compact&hide_border=true" />
 </p>
 
